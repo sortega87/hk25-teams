@@ -4,7 +4,7 @@ Convectively Coupled Equatorial Waves (CCEW) and the Madden Julian Oscillation (
 
 In this team we will test the hypothesis that kilometer scale models can, by a better representation of the multiscale nature of tropical convection, better represent CCEW and the MJO. We will make analysis tailored towards understanding the extent to which the models capture the variability associated with CCEW and the MJO, and aim to understand the nature of their differences.
 
-**Coordination**: Sebastian Ortega (sebastian.ortega@mpimet.mpg.de)
+**Coordination**:
 
 #### Sketch of initial activities
 * Wavenumber-frequency analyses of model results.
